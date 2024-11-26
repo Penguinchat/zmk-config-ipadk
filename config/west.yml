@@ -4,8 +4,8 @@ manifest:
       url-base: https://github.com/petejohanson
     - name: inorichi
       url-base: https://github.com/inorichi
-    - name: tokyo2006
-      url-base: https://github.com/tokyo2006
+    - name: Penguinchat
+      url-base: https://github.com/Penguinchat
   projects:
     - name: zmk
       remote: zmkfirmware
@@ -15,8 +15,8 @@ manifest:
       remote: inorichi
       revision: main
     - name: prospector-zmk-module
-      remote: tokyo2006
-      revision: main
+      remote: Penguinchat
+      revision: support_nicenano
   self:
     path: config
     
